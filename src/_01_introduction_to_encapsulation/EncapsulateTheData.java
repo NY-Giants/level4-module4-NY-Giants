@@ -28,6 +28,8 @@ public class EncapsulateTheData {
 	String nomenclature = " "; //must not be set to a blank string. Blank Strings get set to a space
 	Object memberObj;  //must not be a String.  If it is a String, set it equal to a new Object();
 	
+	
+	
 	public static void main(String[] args) {
 		
 	}
